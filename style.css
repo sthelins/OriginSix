@@ -531,6 +531,11 @@ footer .social a:hover {
 /*========= MEDIA QUERIES =========*/
 /* extra large devices: 1200 > */
 @media (min-width: 1200px) {
+  :root {
+    --title-font-size: 1.8rem;
+    --subtitle-font-size: 1.5rem;
+  }
+
   .container {
     /*reusable classes*/
     max-width: 1120px;
@@ -546,8 +551,8 @@ footer .social a:hover {
   #testimonials header {
     max-width: 32rem;
     text-align: center;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .button {
@@ -622,6 +627,11 @@ footer .social a:hover {
     margin-right: auto;
   }
 
+  #testimonials header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   /*contact*/
   #contact .container {
     grid-auto-flow: column;
@@ -646,6 +656,7 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
+
 /* large devices: 1023 > */
 /* large devices: 992 > */
 @media (min-width: 992px) {
