@@ -14,6 +14,8 @@ CSS
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  JavaScript 
  <div/>
+ <br>
+ Editor de texto: Visual Studio Code
  
  ##
   
@@ -42,21 +44,3 @@ CSS
 
 ## Footer 
 ![image](https://user-images.githubusercontent.com/102331975/195117853-7f879882-8ec1-4671-a3e5-032bfb6d0ab0.png)
-
-
-
- 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
-
- 
- 
-
