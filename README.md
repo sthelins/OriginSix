@@ -33,7 +33,7 @@ CSS
  ## Sobre
  ![image](https://user-images.githubusercontent.com/102331975/195117153-1e179819-55ff-4213-be75-f3f4861eb4c0.png)
  
- ## Seriviços
+ ## Serviços
  ![image](https://user-images.githubusercontent.com/102331975/195117400-df8ff687-d57f-40a2-9389-80b03049d516.png)
 
 ## Depoimentos
